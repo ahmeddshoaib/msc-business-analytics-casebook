@@ -12,7 +12,6 @@ This repository maps my complete MSc Business Analytics project work at Queen's 
 | Insurance Customer 360 | Integrate policy data and identify cross-sell cohorts | SQL, R, Access, data quality | [SQL + R repository](https://github.com/ahmeddshoaib/insurance-customer-360-sql-r) |
 | Employee attrition | Prioritise retention interventions | KNIME, Tableau, trees, boosting | [Decision analytics repository](https://github.com/ahmeddshoaib/employee-attrition-decision-analytics) |
 | Retail coffee strategy | Select target segments and product attributes | RFM, clustering, conjoint, PCA | [Retail strategy repository](https://github.com/ahmeddshoaib/retail-customer-product-strategy-r) |
-| Supply chain control tower | Prioritise supplier and inventory action | Python, scorecards, ABC, forecast backtesting | [Operations repository](https://github.com/ahmeddshoaib/supply-chain-analytics-platform) |
 | Customer subscription propensity | Target pre-call banking campaigns | R, logistic regression, lift and leakage control | [Case study](case-studies/customer-subscription-propensity.md) |
 | Collaboration-network performance | Explain research impact and high performance | R, LASSO, OLS, logistic, LDA, interactions | [Case study](case-studies/collaboration-network-performance.md) |
 | Scientific novelty and citation | Compare non-linear regression and classifiers | R, LASSO, trees, random forest, LDA, SVM | [Case study](case-studies/scientific-novelty-modelling.md) |
@@ -30,6 +29,10 @@ The projects cover one connected decision cycle:
 
 That range supports roles in business analytics, supply chain, operations, retail, customer insight, BI and graduate consulting.
 
+## Independent project outside the MSc
+
+The [supply chain operations analytics](https://github.com/ahmeddshoaib/supply-chain-analytics-platform) repository is a separate, self-directed build using synthetic data. It draws on the supplier, purchasing, logistics and lead-time questions I handled at Ibrahim Fibres, but it is not an employer system and was not a university submission.
+
 ## Evidence policy
 
 The public repositories are rebuilt portfolio versions, not edited submissions. I keep exact submissions, feedback and raw university data in a private archive. Public work follows four rules:
@@ -45,5 +48,5 @@ The MSc also included an AI-focused writing module. It developed research and co
 
 ## Author
 
-**Muhammad Ahmed Shoaib** — MSc Business Analytics, Queen's University Belfast.
-
+**Muhammad Ahmed Shoaib**<br>
+MSc Business Analytics, Queen's University Belfast.
