@@ -12,7 +12,6 @@ Test whether access to elite collaborators, network structure and career experie
 - High performers represented about 4.1% of the classification sample.
 - Interaction analysis found a negative elite-collaborator × elite-cohesion term, supporting a nuanced brokerage interpretation rather than a simple “more elite contacts is always better” claim.
 
-## Boundary
+## Interpretation
 
-The supplied report and marker feedback appear to represent different versions. The work demonstrates technical capability, but public claims do not imply that every section received credit in the marked submission.
-
+The model comparison shows that collaboration access, network position and career experience contribute different types of signal. The interaction result also warns against treating elite contacts as automatically beneficial without considering the surrounding network structure.

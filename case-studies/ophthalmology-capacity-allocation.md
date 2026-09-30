@@ -2,7 +2,7 @@
 
 ## Ownership
 
-This was a six-person group project. I co-developed the work and owned the R-based multi-criteria decision analysis and Pareto analysis. The shared simulator and optimisation code remain private until every contributor consents to publication.
+This was a six-person group project. I co-developed the work and owned the R-based multi-criteria decision analysis and Pareto analysis used to compare the final scheduling alternatives.
 
 ## Decision
 
@@ -20,4 +20,3 @@ Compare 52-week ophthalmology allocation policies on total cost and urgency-weig
 ## Boundary
 
 The reported 48% hill-climbing improvement used its own fixed-booking starting surface and is not directly comparable with Model 3's dynamic rule-based headline cost. The defensible result is the Pareto trade-off above.
-

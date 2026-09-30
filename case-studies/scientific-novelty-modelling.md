@@ -9,7 +9,7 @@ Compare linear, tree-based and margin-based methods for citation impact and high
 - 165,792 PubMed observations in the analysed report.
 - LASSO feature selection, decision tree and random-forest regression.
 - LDA, linear SVM and radial-basis SVM classification.
-- Bias–variance analysis and a leakage-free stacking design.
+- Bias-variance analysis and a leakage-free stacking design.
 - Polynomial holdout RMSE: 1.124.
 - Radial-basis SVM ROC-AUC: 0.658.
 

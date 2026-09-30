@@ -12,7 +12,6 @@ Prioritise customers for a term-deposit campaign using information available bef
 - Post-contact model ROC-AUC: 0.9273, but this included call duration and is not valid for choosing whom to call.
 - Hypothesis tests, odds ratios, VIF checks, confusion matrices and ROC analysis.
 
-## Portfolio repair
+## Improvement path
 
 The clean production design would choose thresholds on cross-validation, report lift and calibration, and keep pre-call targeting separate from post-call quality analysis. This distinction is more important than advertising the largest AUC.
-

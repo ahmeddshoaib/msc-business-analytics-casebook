@@ -12,9 +12,9 @@ Explain and predict house prices while checking whether transformations and rich
 - Best adjusted R²: 0.4667.
 - Best log-price RMSE: 0.368 and MAE: 0.265.
 - Approximately 6.6% RMSE improvement over the baseline specification.
-- VIF, Durbin–Watson, Cook's distance and residual diagnostics.
+- VIF, Durbin-Watson, Cook's distance and residual diagnostics.
 
 ## Learning
 
-The lower tail of the Q–Q plot still deviated from normality. A production rebuild would report original-currency error, resampling uncertainty and an explicit missing-data pipeline.
+The lower tail of the Q-Q plot still deviated from normality. A production rebuild would report original-currency error, resampling uncertainty and an explicit missing-data pipeline.
 
