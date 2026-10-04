@@ -50,7 +50,7 @@ Outputs include Power BI and Tableau dashboards, customer and supplier scorecard
 
 ## Dissertation as the integrating project
 
-The dissertation brought the degree together in one end-to-end system. It required data preparation, time-series feature engineering, statistical baselines, machine learning, ordered backtesting, explainability, governance and Power BI delivery. The final framework evaluated 10,080 out-of-sample forecasts across 30 category-store series and selected global recursive LightGBM while preserving the series and horizon cases where Holt-Winters remained stronger.
+The dissertation brought the degree together in one end-to-end system. It required data preparation, time-series feature engineering, statistical baselines, machine learning, ordered backtesting, explainability, governance and Power BI delivery. The final framework evaluated 10,080 out-of-sample forecasts across all three models, LightGBM, Holt-Winters and seasonal naive, on 30 category-store series. LightGBM achieved `0.6528` RMSSE versus `0.7300` for Holt-Winters and `0.8865` for seasonal naive, ranked best on 29 of 30 series versus seasonal naive and 19 of 30 versus Holt-Winters, while preserving the series and horizon cases where Holt-Winters remained stronger.
 
 The [flagship repository](https://github.com/ahmeddshoaib/retail-demand-forecast-governance) contains the complete notebook sequence, reusable Python modules, model-selection evidence, validation checks, documented semantic model and exact dashboard pages from the submitted technical report.
 
